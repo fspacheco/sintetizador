@@ -1,6 +1,6 @@
 # Sintetizadores de áudio
 Este projeto foi realizado pelos alunos Thiago da Cruz e José Vitor Sant’Ana,
-do [Curso Técnico Integrado em Eletrônica](https://www.ifsc.edu.br/curso-aberto/-/asset_publisher/nvqSsFwoxoh1/content/id/1035419?p_r_p_564233524_categoryId=653877)
+do [Curso Técnico Integrado em Eletrônica](https://www.ifsc.edu.br/curso-tecnicos/-/visualizar/eletronica/Campus-Florianopolis/78/118/iInnIYLz2yYU)
 do IFSC Campus Florianópolis.
 Foi parte das atividades de estágio,
 tendo como orientador o professor Fernando S. Pacheco.
