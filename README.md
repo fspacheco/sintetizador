@@ -13,3 +13,5 @@ código aberto Modulator desenvolvido por [Luis Crespo](https://github.com/lcres
 Além disso, também criamos um sintetizador no site,
 utilizando um tutorial disponibilizado pelo [Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/API/API_Web_Audio/Sintetizador_simples).
 Fizemos a tradução e explicação do processo.
+
+A página está disponível em https://fspacheco.github.io/sintetizador
